@@ -1,26 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: RainySystems # Your GitHub organization or username, where this repository lives
+repo: RainyUptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: RainySystems HomePage
+    url: https://RainySystems.ch
+  - name: RainySystems API
+    url: https://api.rainysystems.ch
+  - name: RainyDo
+    url: https://RainyDo.ch
+  - name: RainyDo API
+    url: https://api.rainysystems.ch
+  - name: Stormki Homepage
+    url: https://Stormki.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.rainysystems.ch
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://rainysystems.ch/assets/img/avatars/RainySystems_Mascot.png
+  name: RainySystems
+  introTitle: Welcome to our **Monitoring** page.
+  introMessage: This is the **Monitoring Page** for all RainySystems offered Systems. If you have issues to use our services first look here. If you still encounter problems reaching our services you can contact us at contact@rainysystems.ch
   navbar:
     - title: Status
       href: /
