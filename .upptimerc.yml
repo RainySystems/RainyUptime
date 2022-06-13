@@ -26,6 +26,8 @@ status-website:
   introTitle: Welcome to our **Monitoring** page.
   introMessage: This is the **Monitoring Page** for all RainySystems offered Systems. If you have issues to use our services first look here. If you still encounter problems reaching our services you can contact us at contact@rainysystems.ch
   navbar:
+    - title: Website
+      href: https://RainySystems.ch
     - title: Status
       href: /
     - title: GitHub
