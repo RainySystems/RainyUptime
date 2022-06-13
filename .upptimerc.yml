@@ -13,6 +13,8 @@ sites:
     url: https://api.rainysystems.ch
   - name: Stormki Homepage
     url: https://stormki.net
+  - name: RainySMM
+    url: https://RainySMM.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
