@@ -4,19 +4,19 @@
     "url": "https://RainySystems.ch",
     "icon": "https://favicons.githubusercontent.com/rainysystems.ch",
     "slug": "rainy-systems-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 217,
-    "timeWeek": 407,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 379,
+    "timeDay": 282,
+    "timeWeek": 400,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 12
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://stormki.net",
     "icon": "https://favicons.githubusercontent.com/stormki.net",
     "slug": "stormki-homepage",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 579,
-    "timeDay": 483,
-    "timeWeek": 582,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 582,
+    "timeDay": 553,
+    "timeWeek": 587,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-06-21": 13
+      "2022-06-21": 24
     }
   },
   {
