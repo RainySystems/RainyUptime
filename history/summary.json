@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 209,
-    "timeWeek": 373,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 379,
+    "timeDay": 234,
+    "timeWeek": 375,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 582,
-    "timeDay": 593,
-    "timeWeek": 596,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 576,
+    "timeDay": 419,
+    "timeWeek": 593,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2022-06-10": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 219,
-    "timeWeek": 588,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 422,
+    "timeDay": 176,
+    "timeWeek": 599,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/api.rainysystems.ch",
     "slug": "rainy-do-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 311,
-    "timeDay": 272,
-    "timeWeek": 275,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 306,
+    "timeDay": 203,
+    "timeWeek": 274,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-06-10": 18
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 600,
-    "timeDay": 624,
-    "timeWeek": 626,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 592,
+    "timeDay": 408,
+    "timeWeek": 617,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2022-06-21": 24
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 802,
-    "timeWeek": 816,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "time": 839,
+    "timeDay": 584,
+    "timeWeek": 811,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   }
 ]
